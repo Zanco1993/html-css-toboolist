@@ -9,12 +9,12 @@ body{
 }
 .intestazione{
     height: 80px;
-    line-height: 80px;
+    
     background-color: white;
 }
     
 .logo{
-    vertical-align: middle;
+    margin-top: 15px;
     margin-left: 20px;
     margin-right: 20px;
 }
@@ -63,20 +63,58 @@ hr{
 }
 
 ul{
-    padding-left: 60px;
+    margin-top: 30px;
+} 
+
+
+
+.organizzazione{
+    width: 700px;
+    height: 700px;
+    margin-top: 50px;
+    margin-left: 50px;
 }
 
-.etichetta{
+.check{
+  background-color: lightgreen;
+  
+}
+
+.etichetta-1{
     color: white;
     background: lightskyblue;
     padding: 5px;
     border-radius: 10px;
     
 }
-
-section{
-    margin-top: 30px;
-    margin-bottom: 20px;
+.etichetta-2{
+    color: white;
+    background: violet;
+    padding: 5px;
+    border-radius: 10px;
+    
+}.etichetta-3{
+    color: white;
+    background: green;
+    padding: 5px;
+    border-radius: 10px;
+    
+}.etichetta-4{
+    color: white;
+    background: orange;
+    padding: 5px;
+    border-radius: 10px;
+    
+}.etichetta-5{
+    color: white;
+    background: rosybrown;
+    padding: 5px;
+    border-radius: 10px;
+    
+}.etichetta-6{
+    color: white;
+    background: green;
+    padding: 5px;
+    border-radius: 10px;
+    
 }
-
-
