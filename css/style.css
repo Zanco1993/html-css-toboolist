@@ -31,8 +31,13 @@ body{
     margin: 0 auto;
     margin-top: 50px;
     background-color: white;
+}
+
+.menu{
+    height: 75px;
 
 }
+
 .task{
     display: inline-block;
     color: white;
@@ -60,6 +65,18 @@ hr{
 }
 
 ul{
-    padding-left: 50px;
+    padding-left: 60px;
 }
 
+.etichetta{
+    color: white;
+    background: lightskyblue;
+    padding: 5px;
+    border-radius: 10px;
+    
+}
+
+section{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
