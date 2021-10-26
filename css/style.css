@@ -8,19 +8,20 @@ body{
     background-color: rgb(233, 233, 233);
 }
 .intestazione{
-    height: 80px;
-    
+    height: 100px;
     background-color: white;
 }
     
 .logo{
-    margin-top: 15px;
-    margin-left: 20px;
-    margin-right: 20px;
+   width: 75px;
+   height: 75px;
+   margin-top: 13px;
+   margin-left: 10px;
 }
 
 .intestazione > h1{
     display: inline-block; 
+    vertical-align: 25px;
 }
 
 .container{
@@ -81,6 +82,7 @@ ul{
 }
 
 .etichetta-1{
+    display: inline-block;
     color: white;
     background: lightskyblue;
     padding: 5px;
@@ -88,30 +90,35 @@ ul{
     
 }
 .etichetta-2{
+    display: inline-block;
     color: white;
     background: violet;
     padding: 5px;
     border-radius: 10px;
     
 }.etichetta-3{
+    display: inline-block;
     color: white;
     background: green;
     padding: 5px;
     border-radius: 10px;
     
 }.etichetta-4{
+    display: inline-block;
     color: white;
     background: orange;
     padding: 5px;
     border-radius: 10px;
     
 }.etichetta-5{
+    display: inline-block;
     color: white;
     background: rosybrown;
     padding: 5px;
     border-radius: 10px;
     
 }.etichetta-6{
+    display: inline-block;
     color: white;
     background: green;
     padding: 5px;
