@@ -17,6 +17,35 @@
 }
 
 .intestazione > h1{
-    display: inline-block;
-    
+    display: inline-block; 
 }
+
+.container{
+    width: 1000px;
+    height: 800px;
+    border: 1px solid black;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.task{
+    display: inline-block;
+    color: white;
+    margin-top: 25px;
+    margin-left: 25px;
+    background: lightskyblue;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid grey;
+}
+
+.sezione{
+    display: inline-block;
+    color: grey;
+    margin-top: 25px;
+    margin-left: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid grey;
+
+}
+
